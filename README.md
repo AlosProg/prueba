@@ -1,3 +1,9 @@
 ## INTERFACES
 ### Índice
-*Un pequeño proyecto que expone cómo funcionan las __interfaces__ en JAVA*
+#### Models (paquete)
+##### Factura (clase)
+##### Pagina (clase)
+#### Intefaces (paquete)
+##### Imprimible (interfaz)
+#### Directora (paquete)
+##### GestionDeImpresion (clase Main)
