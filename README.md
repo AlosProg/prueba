@@ -34,10 +34,9 @@ public class GestionDeImpresion {
 }
 
 En la clase Main creamos dos instancias de, una de una página y otra de una factura, se obtienen los siguientes resultados:
-
 Tenemos 45 páginas.
-Tenemos 45 páginas de 22 líneas.
-===========================================
+Tenemos 45 páginas de 22 líneas
+
 Tenemos la factura número: 1221.
-Tenemos la factura número: 1221 del cliente 999.
-===========================================
+Tenemos la factura numero: 1221 del cliente 999
+
