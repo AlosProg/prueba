@@ -11,5 +11,7 @@
 ##### - GestionDeImpresion (clase Main)
 
 ## **Descripción del proyecto**
-
 El proyecto es creado para ver cómo funcionan las interfaces en Java. 
+
+## **Estado del proyecto**
+:octocat:Terminado :octocat:
