@@ -1,9 +1,9 @@
 ## INTERFACES
 ### Índice
 #### Models (paquete)
-##### Factura (clase)
-##### Pagina (clase)
+##### - Factura (clase)
+##### - Pagina (clase)
 #### Intefaces (paquete)
-##### Imprimible (interfaz)
+##### - Imprimible (interfaz)
 #### Directora (paquete)
-##### GestionDeImpresion (clase Main)
+##### - GestionDeImpresion (clase Main)
