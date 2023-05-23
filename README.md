@@ -15,3 +15,29 @@ El proyecto es creado para ver cómo funcionan las interfaces en Java.
 
 ## **Estado del proyecto**
 :octocat:Terminado :octocat:
+
+## **Demostración de funciones y aplicaciones**
+public class GestionDeImpresion {
+
+	public static void main(String[] args) {
+  
+		Imprimible i1 = new Pagina(45,22);
+		i1.informeCorto();
+		i1.informeLargo();
+		System.out.println("===========================================");
+		
+		Imprimible i2 = new Factura(1221,999);
+		i2.informeCorto();
+		i2.informeLargo();
+		System.out.println("===========================================");
+	}
+}
+
+En la clase Main creamos dos instancias de, una de una página y otra de una factura, se obtienen los siguientes resultados:
+
+Tenemos 45 páginas.
+Tenemos 45 páginas de 22 líneas.
+===========================================
+Tenemos la factura número: 1221.
+Tenemos la factura número: 1221 del cliente 999.
+===========================================
